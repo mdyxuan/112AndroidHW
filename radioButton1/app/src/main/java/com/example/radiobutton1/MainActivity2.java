@@ -20,6 +20,6 @@ public class MainActivity2 extends AppCompatActivity {
         String name = getIntent().getStringExtra("ticket");
 
 
-        textView.setText(outputStr + "\n" + "購買張數:"+ name +"張");
+        textView.setText("訂單明細:"+ "\n" +outputStr + "\n" + "購買張數:"+ name +"張");
     }
 }
