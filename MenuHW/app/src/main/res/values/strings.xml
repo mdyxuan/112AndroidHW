@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MenuHW</string>
+    <string-array name="meal">
+        <item>牛肉漢堡</item>
+        <item>豬肉漢堡</item>
+        <item>炸豬漢堡</item>
+        <item>炸魚漢堡</item>
+    </string-array>
+    <string-array name="extra">
+        <item>沙拉</item>
+        <item>薯條</item>
+        <item>雞塊</item>
+        <item>冰淇淋</item>
+    </string-array>
+    <string-array name="drink">
+        <item>雪碧</item>
+        <item>可樂</item>
+        <item>奶茶</item>
+        <item>檸檬紅茶</item>
+    </string-array>
+    <string-array name="menu">
+        <item >主餐</item>
+        <item >附餐</item>
+        <item >飲料</item>
+    </string-array>
+</resources>
